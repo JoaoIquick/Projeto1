@@ -1,0 +1,31 @@
+import atributos
+from funcoes import perguntar, resultado
+# ------ Fazer as perguntas e armazenar a resposta ------
+
+perguntar(atributos.prgt1)
+perguntar(atributos.prgt2)
+perguntar(atributos.prgt3)
+perguntar(atributos.prgt4)
+perguntar(atributos.prgt5)
+perguntar(atributos.prgt6)
+perguntar(atributos.prgt7)
+perguntar(atributos.prgt8)
+perguntar(atributos.prgt9)
+perguntar(atributos.prgt10)
+perguntar(atributos.prgt11)
+perguntar(atributos.prgt12)
+perguntar(atributos.prgt13)
+perguntar(atributos.prgt14)
+perguntar(atributos.prgt15)
+perguntar(atributos.prgt16)
+perguntar(atributos.prgt17)
+perguntar(atributos.prgt18)
+perguntar(atributos.prgt19)
+perguntar(atributos.prgt20)
+perguntar(atributos.prgt21)
+perguntar(atributos.prgt22)
+perguntar(atributos.prgt23)
+perguntar(atributos.prgt24)
+perguntar(atributos.prgt25)
+#Exibe o resultado
+resultado(atributos.contAlternativas)
